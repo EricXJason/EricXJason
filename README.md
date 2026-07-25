@@ -5,8 +5,8 @@
 ---
 
 ### 🎓 學歷 (Education)
-* 🎓 **國立臺灣藝術大學 (NTUA)**｜新媒體藝術碩士班 (M.F.A. in New Media Art) (2024.09 - 2026.06)
-* 🎓 **國立虎尾科技大學 (NFU)**｜多媒體設計系學士 (B.D. in Multimedia Design) (2019.09 - 2023.06)
+* 🎓 國立臺灣藝術大學 (NTUA)｜新媒體藝術碩士班 (M.F.A. in New Media Art) (2024.09 - 2026.06)
+* 🎓 國立虎尾科技大學 (NFU)｜多媒體設計系學士 (B.D. in Multimedia Design) (2019.09 - 2023.06)
 
 ---
 
