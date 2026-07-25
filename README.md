@@ -23,7 +23,7 @@
 * **後端程式語言 (Backend Languages)**：Java / Python
 * **後端框架與技術 (Backend Frameworks & Tech)**：Spring Boot / Hibernate / Flask / Django
 * **前端程式語言 (Frontend Languages)**：HTML / CSS / JavaScript / TypeScript
-* **前端框架與樣式 (Frontend Frameworks & Styling)**：React / Angular / Sass / Tailwind / Bootstrap
+* **前端框架與樣式 (Frontend Frameworks & Styling)**：React / Angular / SCSS / Tailwind / Bootstrap
 * **資料庫 (Databases)**：MySQL / PostgreSQL
 * **雲端服務 (Cloud Services)**：AWS / GCP
 * **開發與建置工具 (Dev Tools)**：Git / Docker / Vite
