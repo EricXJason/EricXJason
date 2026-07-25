@@ -1,6 +1,6 @@
 # 許哲誠 (HSU, CHE-CHENG)
 
-> **互動遊戲開發 / 全端開發 / 多媒體設計 (Interactive Game Dev / Full-Stack / Multimedia Design)**
+ **互動遊戲開發 / 全端開發 / 多媒體設計 (Interactive Game Dev / Full-Stack / Multimedia Design)**
 
 ---
 
