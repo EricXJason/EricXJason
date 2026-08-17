@@ -40,5 +40,4 @@
 
 ### 📫 聯絡方式 (Connect with Me)
 * 📧 **電子郵件 (Email)**: user40972@gmail.com
-* 💬 **LINE**: ericxjason
 * 🌐 **作品集 (Portfolio)**: https://ericxjason.github.io/my-portfolio-website/
