@@ -2,7 +2,7 @@
 
 新媒體藝術碩士，專注 **Unity (C#) 客戶端架構**、**XR 體感互動**與**遊戲核心邏輯開發**。具備軟體工程架構與**全端開發整合實力**，能無縫打通前端體驗、後端通訊與 3D 數位資產，並熟練運用 AI 工具加速產出，兼具美術視野與工程思維，能獨立高效落實各類互動系統與流暢體驗。
 
-🌐 [個人作品集網站](https://my-portfolio-website.user46972.workers.dev/) ｜ 📧 [user40972@gmail.com](mailto:user40972@gmail.com) ｜ 📍 高雄市前鎮區
+🌐 [個人作品集網站](https://my-portfolio-website.user46972.workers.dev/) ｜ 📧 [user40972@gmail.com](mailto:user40972@gmail.com)
 
 ---
 
