@@ -1,43 +1,35 @@
 # 許哲誠 (HSU, CHE-CHENG)
 
- **互動遊戲開發 / 全端開發 / 多媒體設計 (Interactive Game Dev / Full-Stack / Multimedia Design)**
+> 新媒體藝術碩士，專注 **Unity (C#) 客戶端架構**、**XR 體感互動**與**遊戲核心邏輯開發**。具備軟體工程架構與**全端開發整合實力**，能無縫打通前端體驗、後端通訊與 3D 數位資產，並熟練運用 AI 工具加速產出，兼具美術視野與工程思維，能獨立高效落實各類互動系統與流暢體驗。
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-blue?style=flat-square)](https://my-portfolio-website.user46972.workers.dev/)
+[![Email](https://img.shields.io/badge/Email-user40972%40gmail.com-red?style=flat-square)](mailto:user40972@gmail.com)
+
+---
+
+### 🛠️ 核心技能 (Tech Stack)
+
+#### 🎮 互動與遊戲開發 (Interactive & Game Architecture)
+- **Engines & Languages**：Unity (C#), Unreal Engine 5 (Blueprints)
+- **Architecture & Patterns**：Pure C# FSM, EventBus, ScriptableObject Architecture, Generic Object Pooling (Zero-GC), Mediator
+- **Core Systems**：XR Interaction Toolkit (XRI 3.0), Meta Quest SDK, Vuforia AR, URP, Cinemachine, DOTween, Input System
+- **Profiling & Tuning**：Unity Profiler, Memory Profiler, Draw Call Batching, Sine/Math Interpolation
+
+#### 🌐 系統架構與全端通訊 (Client-Server & Full-Stack)
+- **Backend & Cloud**：Java 21, Spring Boot, RESTful API, MySQL, TiDB Cloud, Docker, Cloudflare Pages
+- **Frontend & Web**：TypeScript, Angular, React, Tailwind CSS
+
+#### 🎨 數位資產與 3D 管線 (3D Pipelines & Design)
+- **3D Modeling & PBR**：Blender, Maya, ZBrush, Substance Painter, Marmoset Toolbag, RizomUV, AutoCAD
+- **UI/UX & Engineering**：Figma, UGUI Responsive Layout, Git / GitHub Actions (CI/CD)
 
 ---
 
 ### 🎓 學歷 (Education)
-* 🎓 國立臺灣藝術大學 (NTUA)｜新媒體藝術碩士班 (M.F.A. in New Media Art) (2024.09 - 2026.06)
-* 🎓 國立虎尾科技大學 (NFU)｜多媒體設計系學士 (B.D. in Multimedia Design) (2019.09 - 2023.06)
+- **國立臺灣藝術大學**｜新媒體藝術碩士班 (2024.09 - 2026.06)
+- **國立虎尾科技大學**｜多媒體設計系學士 (2019.09 - 2023.06)
 
 ---
 
-### 🛠️ 專業技能 (Tech Stack & Skills)
-
-#### 🎮 互動遊戲開發 (Interactive & Game Development)
-* **遊戲引擎 (Game Engines)**：Unity (C#) / Unreal Engine (Blueprints)
-* **設計模式與架構 (Design Patterns & Architecture)**：Singleton / Object Pool / Registry / Observer Pattern / Event-based Architecture
-* **核心技術 (Core Tech)**：URP / Shader Graph / Addressables / Editor Scripting (Inspector, EditorWindow) / Saving System / AI Navigation / Cinemachine / DOTween / Timeline
-* **XR 實境開發 (XR Development)**：Vuforia / Meta SDK / XR Interaction Toolkit
-* **多人連線開發 (Multiplayer Development)**：Netcode / Photon Pun
-
-#### 🌐 全端開發 (Full-Stack Development)
-* **後端程式語言 (Backend Languages)**：Java / Python
-* **後端框架與技術 (Backend Frameworks & Tech)**：Spring Boot / Hibernate / Flask / Django
-* **前端程式語言 (Frontend Languages)**：HTML / CSS / JavaScript / TypeScript
-* **前端框架與樣式 (Frontend Frameworks & Styling)**：React / Angular / SCSS / Tailwind CSS / Bootstrap
-* **資料庫 (Databases)**：MySQL / PostgreSQL
-* **雲端服務 (Cloud Services)**：AWS / GCP
-* **開發與建置工具 (Dev Tools)**：Git / Docker / Vite
-* **CI/CD 自動化 (CI/CD Automation)**：GitHub Actions
-
-#### 🎨 多媒體設計 (Multimedia & Design)
-* **視覺設計與 UI/UX (Visual & UI/UX Design)**：Figma / Canva / Photoshop / Illustrator
-* **AI 內容創作 (AI Content Creation)**：ChatGPT / Gemini / ComfyUI / Suno
-* **流程圖與設計文件 (Flowcharts & Documentation)**：draw.io / Word / Excel / PowerPoint
-* **影片剪輯與後製 (Video Editing & Post-Production)**：Premiere / DaVinci
-* **3D 建模與材質 (3D Modeling & Texturing)**：AutoCAD / Blender / Maya / 3dsMax / RizomUV / ZBrush / Substance Painter
-
----
-
-### 📫 聯絡方式 (Connect with Me)
-* 📧 **電子郵件 (Email)**: user40972@gmail.com
-* 🌐 **作品集 (Portfolio)**: https://my-portfolio-website.user46972.workers.dev/
+### 🏆 精選作品與專案
+下方 Pinned Repositories 包含各專案之完整原始碼、架構設計說明與實機展示影片連結。
