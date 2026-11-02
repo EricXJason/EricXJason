@@ -11,7 +11,7 @@
 #### 🎮 【核心專業：互動應用開發】
 - **遊戲引擎**：Unity (C#) / Unreal Engine (Blueprints)
 - **核心技術**：ScriptableObject / Save System (JSON, PlayerPrefs) / Input System / UniTask (Async) / UGUI / TextMeshPro / URP / Post-Processing
-- **效能優化**：Unity Profiler / Profile Analyzer / Memory Profiler / GC Optimization (Zero-GC) / Object Pool / LOD
+- **效能優化**：Unity Profiler / Profile Analyzer / Memory Profiler / Object Pool / LOD
 - **XR 實境開發**：XR Interaction Toolkit (XRI 3.0) / Meta Quest SDK / Vuforia SDK
 - **多人連線開發**：Photon PUN
 - **動畫與相機**：Cinemachine / DOTween / Animation / Animator / Timeline
