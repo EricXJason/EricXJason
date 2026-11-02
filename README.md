@@ -1,18 +1,18 @@
-# 許哲誠 (HSU, CHE-CHENG)
+## 許哲誠 (HSU, CHE-CHENG)
 
-新媒體藝術碩士，專注 **Unity (C#) 客戶端架構**、**XR 體感互動**與**遊戲核心邏輯開發**。具備軟體工程架構與**全端開發整合實力**，能無縫打通前端體驗、後端通訊與 3D 數位資產，並熟練運用 AI 工具加速產出，兼具美術視野與工程思維，能獨立高效落實各類互動系統與流暢體驗。
+新媒體藝術碩士，專注 **Unity (C#) 客戶端架構**、**XR 互動開發** 與 **遊戲核心邏輯實作**。具備軟體工程架構與 **全端開發** 整合實力，能串接前端互動、後端通訊與 3D 數位資產，並熟練運用現代開發工具提升效率，兼具美術視野與工程思維，致力打造結構穩定且運行流暢的互動體驗。
 
-🌐 [個人作品集網站](https://my-portfolio-website.user46972.workers.dev/) ｜ 📧 [user40972@gmail.com](mailto:user40972@gmail.com)
+🌐 [個人作品集網站](https://my-portfolio-website.pages.dev) ｜ 📧 [user40972@gmail.com](mailto:user40972@gmail.com)
 
 ---
 
 ### 🛠️ 專長 (Skills)
 
 #### 🎮 【核心專業：互動應用開發】
-- **遊戲引擎**：Unity (C#) / Unreal Engine (Blueprints)
-- **核心技術**：ScriptableObject / Save System (JSON, PlayerPrefs) / Input System / UniTask (Async) / UGUI / TextMeshPro / URP / Post-Processing
+- **遊戲引擎**：Unity (C#) / Unreal Engine (Blueprint)
+- **核心技術**：ScriptableObject / Save System (JSON, PlayerPrefs) / Input System / UGUI / TextMeshPro / URP / Post-Processing
 - **效能優化**：Unity Profiler / Profile Analyzer / Memory Profiler / Object Pool / LOD
-- **XR 實境開發**：XR Interaction Toolkit (XRI 3.0) / Meta Quest SDK / Vuforia SDK
+- **XR 實境開發**：XR Interaction Toolkit / Meta Quest SDK / Vuforia SDK
 - **多人連線開發**：Photon PUN
 - **動畫與相機**：Cinemachine / DOTween / Animation / Animator / Timeline
 
@@ -37,10 +37,6 @@
 ---
 
 ### 🎓 學歷 (Education)
-- **國立臺灣藝術大學**｜新媒體藝術碩士班 (2024.09 - 2026.06)
-- **國立虎尾科技大學**｜多媒體設計系學士 (2019.09 - 2023.06)
-
----
-
-### 🏆 精選作品與專案
-下方 Pinned Repositories 包含各專案之完整原始碼、架構設計說明與實機展示影片連結。
+- **國立臺灣藝術大學** ｜ 新媒體藝術碩士班 (2024.09 - 2026.06)
+- **國立虎尾科技大學** ｜ 多媒體設計系學士 (2019.09 - 2023.06)
+- **高雄市立中正高工** ｜ 電腦機械製圖科 (2016.09 - 2019.06)
